@@ -1,0 +1,1000 @@
+brand,name,bodyType,color,fuelType,mileage,transmission,price
+Fiat,124 Spider,open,blue,Gasoline,8000,Automatic,1830000
+BMW,i3,hatchback 5 doors,black,Electro,12000,Automatic,1830000
+Mercedes-Benz,GLE Coupe,jeep 5 doors,burgundy,Gasoline,57000,AT,4600000
+Mercedes-Benz,G-Class,jeep 5 doors,black,Gasoline,200000,AT,2999999
+Audi,Q7,jeep 5 doors,white,Gasoline,67000,Automatic,3300000
+Lexus,RX350,jeep 5 doors,burgundy,Gasoline,150000,AT,3500000
+Toyota,Land Cruiser,jeep 5 doors,white,Gasoline,305000,Automatic,950000
+Toyota,Alphard,minivan,,Gasoline,83000,CVT,4350000
+Nissan,Note,hatchback 5 doors,grey,Gasoline,58000,CVT,850000
+Toyota,Vellfire,minivan,white,Gasoline,210000,CVT,1800000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,20000,AT,3300000
+Nissan,Juke,jeep 5 doors,burgundy,Gasoline,40000,CVT,795000
+Toyota,Prius,liftback,black,Gasoline,200000,CVT,829000
+Nissan,Liberty,minivan,white,Gasoline,140000,CVT,235000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,24000,AT,3490000
+Nissan,President,sedan,grey,Gasoline,94000,AT,435000
+Toyota,Camry,sedan,black,Gasoline,69000,CVT,1890000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Diesel,41000,AT,3450000
+Suzuki,Escudo,jeep 3 doors,red,Gasoline,200000,AT,260000
+Nissan,Serena,minivan,,Gasoline,50000,AT,1965000
+Nissan,NV200,minivan,white,Gasoline,172000,AT,1060000
+Honda,Vezel,jeep 5 doors,white,Gasoline,86000,Robot,1190000
+Nissan,Juke,jeep 5 doors,grey,Gasoline,140000,CVT,630000
+Lexus,LX570,jeep 5 doors,white,Gasoline,124000,AT,6900000
+Toyota,Harrier,jeep 5 doors,blue,Gasoline,101000,CVT,2145000
+Toyota,Chaser,sedan,,Gasoline,100000,AT,180000
+Honda,Vezel,jeep 5 doors,grey,Gasoline,133000,Robot,1320000
+Toyota,Crown,sedan,white,Gasoline,73000,CVT,2499000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,65000,CVT,2475000
+Mazda,CX-5,jeep 5 doors,red,Diesel,27000,AT,1750000
+Toyota,Camry,sedan,brown,Gasoline,100000,CVT,1770000
+Toyota,Prius Alpha,minivan,grey,Gasoline,135000,CVT,1100000
+Hyundai,ix55,jeep 5 doors,silver,Diesel,303000,AT,840000
+Lexus,RX200t,jeep 5 doors,silver,Gasoline,151000,AT,3400000
+Isuzu,Bighorn,jeep 5 doors,grey,Diesel,329000,AT,750000
+Nissan,Tiida Latio,sedan,grey,Gasoline,150000,AT,325000
+Nissan,Note,hatchback 5 doors,white,Gasoline,80000,AT,1111111
+Lexus,RX350,jeep 5 doors,black,Gasoline,84000,AT,4500000
+Infiniti,QX56,jeep 5 doors,white,Gasoline,105000,AT,2150000
+Audi,TT,open,yellow,Gasoline,34000,Automatic,2990000
+Toyota,Probox,station wagon,blue,Gasoline,109000,CVT,915000
+Hyundai,Santa Fe,jeep 5 doors,grey,Gasoline,151000,AT,385000
+Toyota,Crown,sedan,blue,Gasoline,250000,AT,150000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,17000,AT,3450000
+Toyota,Hiace,minivan,white,Diesel,140000,Automatic,1870000
+Toyota,Vitz,hatchback 5 doors,white,Gasoline,30000,CVT,945000
+Mazda,Demio,hatchback 5 doors,red,Gasoline,62000,Manual,960000
+Jaguar,F-Type,coupe,white,Gasoline,29000,Automatic,3970000
+Honda,CR-V,jeep 5 doors,white,Gasoline,157000,AT,225000
+Toyota,Land Cruiser,jeep 5 doors,white,Diesel,102000,AT,5835000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,31000,CVT,3300000
+Toyota,Passo,hatchback 5 doors,burgundy,Gasoline,130000,CVT,500000
+Toyota,Aqua,hatchback 5 doors,,Gasoline,115000,CVT,935000
+Toyota,Supra,coupe,grey,Gasoline,10000,AT,3299000
+Daihatsu,Mira e:S,hatchback 5 doors,white,Gasoline,101000,CVT,555000
+Honda,CR-V,jeep 5 doors,grey,Gasoline,258000,AT,321000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,214000,Manual,620000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,70000,CVT,2050000
+BMW,3-Series,sedan,,Gasoline,80000,AT,1235000
+Suzuki,Ignis,hatchback 5 doors,white,Gasoline,142000,CVT,920000
+Mitsubishi,RVR,minivan,black,Gasoline,106000,Manual,210000
+Toyota,Vitz,hatchback 5 doors,silver,Gasoline,100000,CVT,435000
+Suzuki,Kei,hatchback 5 doors,white,Gasoline,160000,AT,120000
+Nissan,Juke,jeep 5 doors,black,Gasoline,1000,CVT,775000
+Nissan,Qashqai,jeep 5 doors,grey,Gasoline,64000,CVT,1960000
+Ford,F150,pickup,grey,Gasoline,120000,AT,1600000
+Honda,Fit Shuttle,station wagon,black,Gasoline,185000,CVT,759000
+Audi,Q3,jeep 5 doors,grey,Gasoline,34000,Automatic,1740000
+Honda,Fit,hatchback 5 doors,blue,Gasoline,120000,CVT,760000
+Toyota,Prius PHV,liftback,black,Gasoline,91000,CVT,1200000
+Nissan,Note,hatchback 5 doors,silver,Gasoline,125000,CVT,625000
+Toyota,C-HR,jeep 5 doors,black,Gasoline,92000,CVT,1399000
+Toyota,Prius,liftback,white,Gasoline,320000,CVT,845000
+Honda,CR-Z,hatchback 3 door,red,Gasoline,128000,CVT,656000
+Toyota,C-HR,jeep 5 doors,blue,Gasoline,37000,CVT,1690000
+Toyota,Aqua,hatchback 5 doors,white,Gasoline,132000,CVT,750000
+Toyota,Sienta,minivan,silver,Gasoline,104000,CVT,993000
+Honda,Vezel,jeep 5 doors,black,Gasoline,47000,Robot,1350000
+Suzuki,Escudo,jeep 5 doors,white,Gasoline,159000,AT,695000
+Toyota,Prius,liftback,black,Gasoline,240000,CVT,800000
+Toyota,Prius,liftback,blue,Gasoline,39000,CVT,1205000
+Toyota,Corsa,sedan,silver,Gasoline,252000,Manual,115000
+Honda,Accord,sedan,black,Gasoline,183000,CVT,1260000
+Nissan,X-Trail,jeep 5 doors,white,Gasoline,75000,CVT,1620000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,176000,AT,2549000
+Toyota,Chaser,sedan,white,Gasoline,200000,AT,460000
+Nissan,Bluebird Sylphy,sedan,,Gasoline,210000,AT,149999
+Toyota,Corolla Fielder,station wagon,,Gasoline,190000,CVT,585000
+Daihatsu,Terios Kid,jeep 5 doors,white,Gasoline,130000,AT,220000
+Toyota,Hiace,minivan,grey,Diesel,191000,AT,1140000
+Subaru,Forester,jeep 5 doors,blue,Gasoline,108000,CVT,1250000
+Toyota,Alphard,minivan,white,Gasoline,60000,CVT,3620000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,43000,AT,3470000
+Toyota,Crown,sedan,white,Gasoline,116000,CVT,1750000
+Nissan,Wingroad,station wagon,blue,Gasoline,100000,CVT,665000
+Honda,Stream,minivan,brown,Gasoline,192000,AT,730000
+Nissan,Kix,jeep 3 doors,blue,Gasoline,164000,AT,400000
+Toyota,Prius,liftback,white,Gasoline,187000,CVT,685000
+Toyota,C-HR,jeep 5 doors,black,Gasoline,55000,CVT,1730000
+Lexus,CT200h,hatchback 5 doors,white,Gasoline,140000,CVT,1380000
+Lexus,RX200t,jeep 5 doors,brown,Gasoline,107000,AT,3800000
+Toyota,Crown,sedan,white,Gasoline,74000,CVT,2520000
+Suzuki,Jimny,jeep 3 doors,black,Gasoline,200000,AT,695000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,62000,AT,5000000
+Daihatsu,Atrai,minivan,white,Gasoline,100000,AT,885000
+Suzuki,Jimny,jeep 3 doors,red,Gasoline,94000,AT,695000
+Honda,Insight,liftback,white,Gasoline,106000,CVT,885000
+Toyota,RAV4,jeep 5 doors,black,Gasoline,82000,AT,2630000
+Toyota,Alphard,minivan,black,Gasoline,75000,CVT,2090000
+Toyota,Roomy,hatchback 5 doors,red,Gasoline,6000,CVT,907000
+Toyota,Crown,sedan,,Gasoline,70000,CVT,2600000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,88000,CVT,2280000
+Toyota,Land Cruiser,jeep 5 doors,black,Diesel,286000,AT,2480000
+Toyota,Vitz,hatchback 5 doors,,Gasoline,90000,CVT,505000
+Toyota,Vanguard,jeep 5 doors,black,Gasoline,152000,CVT,1290000
+Toyota,Isis,minivan,brown,Gasoline,120000,CVT,420000
+Toyota,Wish,minivan,white,Gasoline,123000,CVT,975000
+Mercedes-Benz,GLC,jeep 5 doors,white,Gasoline,89000,AT,2519999
+Toyota,Vitz,hatchback 5 doors,white,Gasoline,192000,AT,353000
+Mitsubishi,Delica D:5,minivan,blue,Gasoline,216000,CVT,1360000
+Hyundai,Palisade,jeep 5 doors,black,Diesel,58000,AT,3290000
+Honda,Fit,hatchback 5 doors,red,Gasoline,43000,CVT,905000
+Mercedes-Benz,M-Class,jeep 5 doors,white,Gasoline,142000,AT,2050000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,24000,AT,3470000
+Honda,Insight,liftback,grey,Gasoline,1000,CVT,580000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,78000,CVT,790000
+Honda,Shuttle,station wagon,,Gasoline,46000,Robot,1190000
+Toyota,Estima,minivan,white,Gasoline,110000,CVT,2300000
+Nissan,Serena,minivan,violet,Gasoline,88000,CVT,1470000
+Mercedes-Benz,GLA-Class,jeep 5 doors,,Gasoline,50000,Automatic,1547000
+Skoda,Rapid,liftback,white,Gasoline,140000,Manual,650000
+Lincoln,Town Car,sedan,blue,Gasoline,127000,AT,649000
+Toyota,Prius,liftback,grey,Gasoline,126000,CVT,1600000
+Honda,Insight,liftback,blue,Gasoline,210000,CVT,560000
+Nissan,DAYZ,hatchback 5 doors,blue,Gasoline,66000,CVT,520000
+Hyundai,Tucson,jeep 5 doors,black,Gasoline,221000,AT,600000
+Honda,CR-V,jeep 5 doors,brown,Gasoline,79000,AT,1620000
+Nissan,March,hatchback 5 doors,blue,Gasoline,145000,AT,230000
+Nissan,March,hatchback 5 doors,silver,Gasoline,195000,AT,230000
+Nissan,Terrano,jeep 5 doors,black,Diesel,210000,Manual,345000
+Toyota,Ipsum,minivan,black,Gasoline,259000,AT,367000
+Toyota,Chaser,sedan,black,Gasoline,150000,AT,445000
+Nissan,AD,station wagon,white,Gasoline,170000,AT,170000
+Daihatsu,Terios,jeep 5 doors,grey,Gasoline,179000,AT,290000
+Subaru,Forester,jeep 5 doors,red,Gasoline,214000,AT,640000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,38000,AT,3899999
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,32000,AT,4199999
+Honda,Vezel,jeep 5 doors,red,Gasoline,63000,Robot,1600000
+Toyota,Corolla Axio,sedan,white,Gasoline,59000,Manual,825000
+Mercedes-Benz,C-Class,sedan,black,Gasoline,110000,AT,1850000
+Honda,Fit,hatchback 5 doors,white,Gasoline,208000,CVT,430000
+Nissan,DAYZ,hatchback 5 doors,,Gasoline,104000,CVT,660000
+Cadillac,Escalade,jeep 5 doors,,Gasoline,110000,AT,5350000
+Toyota,Noah,minivan,,Gasoline,63000,CVT,2095000
+Tesla,Model Y,jeep 5 doors,grey,Electro,24000,AT,4999999
+Nissan,Note,hatchback 5 doors,white,Gasoline,82000,AT,800000
+Toyota,Wish,minivan,burgundy,Gasoline,73000,CVT,959999
+Honda,Vezel,jeep 5 doors,grey,Gasoline,117000,Robot,1865000
+Honda,Fit,hatchback 5 doors,blue,Gasoline,164000,CVT,600000
+Mitsubishi,Pajero,jeep 5 doors,silver,Gasoline,147000,AT,1700000
+Subaru,Impreza,sedan,white,Gasoline,137000,CVT,1165000
+Toyota,C-HR,jeep 5 doors,,Gasoline,84000,CVT,1790000
+Toyota,Mark II,sedan,grey,Gasoline,170000,AT,300000
+Toyota,Voxy,minivan,black,Gasoline,79000,CVT,1865000
+Toyota,Premio,sedan,burgundy,Gasoline,18000,CVT,1465000
+Honda,Stepwgn,minivan,black,Gasoline,62000,CVT,1850000
+Honda,Stepwgn,minivan,black,Gasoline,90000,CVT,1960000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,110000,CVT,965000
+Lexus,CT200h,hatchback 5 doors,white,Gasoline,141000,CVT,1199000
+Mercedes-Benz,GLC Coupe,jeep 5 doors,white,Gasoline,138000,AT,3500000
+Toyota,Prius Alpha,minivan,grey,Gasoline,75000,CVT,2000000
+Subaru,Levorg,station wagon,black,Gasoline,69000,CVT,1299999
+BMW,5-Series,sedan,black,Gasoline,94000,AT,3450000
+Toyota,Crown,sedan,white,Gasoline,118000,AT,2050000
+Honda,Vezel,jeep 5 doors,white,Gasoline,,CVT,2280000
+Audi,Q2,jeep 5 doors,white,Gasoline,70000,Automatic,1499000
+Lexus,NX200,jeep 5 doors,black,Gasoline,60000,CVT,3050000
+Suzuki,Jimny Sierra,jeep 3 doors,,Gasoline,20000,AT,1999999
+Lexus,RX450h,jeep 5 doors,white,Gasoline,50000,CVT,4350000
+SsangYong,Rexton,jeep 5 doors,black,Diesel,13000,AT,3270000
+Subaru,Forester,jeep 5 doors,white,Gasoline,150000,Manual,1250000
+Honda,CR-V,jeep 5 doors,black,Gasoline,168000,AT,520000
+Toyota,Ractis,hatchback 5 doors,green,Gasoline,165000,CVT,420000
+Suzuki,Jimny,jeep 3 doors,grey,Gasoline,126000,Manual,490000
+Toyota,Prius,liftback,black,Gasoline,115000,CVT,1155000
+Subaru,Impreza,hatchback 5 doors,black,Gasoline,145000,CVT,900000
+Honda,Fit,hatchback 5 doors,silver,Gasoline,148000,CVT,620000
+Honda,Freed,minivan,black,Gasoline,95000,CVT,857000
+Honda,Insight,liftback,,Gasoline,75000,CVT,700000
+Toyota,Prius,liftback,,Gasoline,150000,CVT,865000
+Toyota,Harrier,jeep 5 doors,burgundy,Gasoline,103000,CVT,1860000
+Mercedes-Benz,CLA-Class,sedan,brown,Gasoline,27000,Automatic,2350000
+Nissan,Tiida,hatchback 5 doors,golden,Gasoline,255000,AT,390000
+Toyota,Passo,hatchback 5 doors,red,Gasoline,84000,CVT,685000
+Mitsubishi,Colt Plus,station wagon,white,Gasoline,180000,CVT,371000
+Honda,Fit,hatchback 5 doors,white,Gasoline,173000,CVT,595000
+Honda,Shuttle,station wagon,white,Gasoline,1000,Robot,1030000
+Honda,Freed,minivan,,Gasoline,125000,CVT,700000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,,AT,4520000
+Honda,Freed Spike,minivan,grey,Gasoline,109000,CVT,710000
+Toyota,Corona,sedan,white,Gasoline,250000,AT,165000
+Toyota,Vitz,hatchback 5 doors,white,Gasoline,80000,CVT,660000
+Toyota,Hilux Surf,jeep 5 doors,grey,Gasoline,270000,AT,1430000
+Toyota,Corolla Fielder,station wagon,blue,Gasoline,200000,AT,320000
+Honda,Fit,hatchback 5 doors,white,Gasoline,117000,Robot,895000
+Jeep,Wrangler,jeep 5 doors,white,Gasoline,29000,AT,4900000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,115000,AT,2290000
+Suzuki,Jimny,jeep 3 doors,white,Gasoline,140000,Manual,700000
+Toyota,Probox,station wagon,silver,Gasoline,99000,CVT,895000
+Toyota,Venza,jeep 5 doors,black,Gasoline,74000,AT,1850000
+Lexus,RX350,jeep 5 doors,white,Gasoline,26000,AT,6300000
+Toyota,Prius,liftback,white,Gasoline,101000,CVT,650000
+Land Rover,Range Rover,jeep 5 doors,white,Gasoline,35000,AT,4680000
+Toyota,Carina,sedan,green,Gasoline,260000,Manual,285000
+Honda,Vezel,jeep 5 doors,black,Gasoline,118000,Robot,1200000
+Toyota,Succeed,station wagon,grey,Gasoline,172000,CVT,750000
+Lexus,NX200,jeep 5 doors,red,Gasoline,144000,CVT,2299000
+Honda,Shuttle,station wagon,black,Gasoline,52000,Robot,1375000
+Toyota,Land Cruiser Prado,jeep 5 doors,green,Gasoline,122000,AT,3000000
+Toyota,RAV4,jeep 5 doors,blue,Gasoline,8000,CVT,2780000
+Honda,Vezel,jeep 5 doors,white,Gasoline,1000,CVT,2430000
+Lexus,NX300h,jeep 5 doors,white,Gasoline,83000,CVT,2800000
+Toyota,Camry,sedan,green,Gasoline,256000,AT,690000
+Toyota,C-HR,jeep 5 doors,yellow,Gasoline,16000,CVT,1785000
+Mercedes-Benz,GLE Coupe,jeep 5 doors,grey,Diesel,150000,AT,3890000
+Toyota,Land Cruiser,jeep 5 doors,black,Gasoline,87000,AT,6250000
+Hyundai,Santa Fe,jeep 5 doors,white,Diesel,,Robot,3750000
+Mitsubishi,Outlander,jeep 5 doors,white,Gasoline,98000,AT,1755000
+Mercedes-Benz,G-Class,jeep 5 doors,black,Gasoline,13000,AT,25000000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,62000,CVT,1200000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,64000,AT,2555555
+Nissan,Terrano Regulus,jeep 5 doors,,Diesel,257000,AT,290000
+Nissan,NP300,pickup,black,Diesel,156000,Manual,930000
+Honda,Accord,sedan,silver,Gasoline,141000,CVT,1470000
+Haval,Jolion,jeep 5 doors,grey,Gasoline,8000,Robot,1990000
+Toyota,Prius,liftback,white,Gasoline,200000,CVT,900000
+Toyota,Hilux Surf,jeep 5 doors,white,Gasoline,246000,AT,1100000
+Infiniti,QX50,jeep 5 doors,white,Gasoline,70000,Automatic,2700000
+Honda,Civic,hatchback 5 doors,red,Gasoline,70000,CVT,1540000
+Nissan,Wingroad,station wagon,white,Gasoline,120000,CVT,630000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,13000,AT,4250000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,80000,CVT,2240000
+Toyota,RAV4,jeep 5 doors,white,Gasoline,17000,AT,2950000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,33000,AT,7100000
+Toyota,Gaia,minivan,white,Gasoline,55000,AT,465000
+Jeep,Cherokee,jeep 3 doors,black,Gasoline,173000,AT,500000
+Land Rover,Range Rover,jeep 5 doors,black,Gasoline,70000,AT,4200000
+BMW,7-Series,sedan,white,Diesel,130000,Automatic,3400000
+Mitsubishi,Pajero Mini,jeep 3 doors,grey,Gasoline,133000,AT,475000
+Mazda,Demio,hatchback 5 doors,grey,Gasoline,44000,AT,580000
+Toyota,Esquire,minivan,white,Gasoline,24000,CVT,1970000
+Toyota,C-HR,jeep 5 doors,black,Gasoline,57000,CVT,1625000
+Daihatsu,Be-Go,jeep 5 doors,grey,Gasoline,146000,AT,650000
+Toyota,Sienta,minivan,yellow,Gasoline,57000,CVT,1086000
+Honda,CR-Z,hatchback 3 door,white,Gasoline,72000,CVT,1250000
+Nissan,Dualis,jeep 5 doors,black,Gasoline,181000,CVT,610000
+Toyota,Allion,sedan,grey,Gasoline,245000,CVT,680000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,140000,CVT,2275000
+Toyota,Noah,minivan,silver,Gasoline,28000,CVT,1700000
+Mazda,CX-8,jeep 5 doors,blue,Diesel,41000,AT,2210000
+Toyota,RAV4,jeep 5 doors,white,Gasoline,22000,CVT,3150000
+Honda,Grace,sedan,white,Gasoline,52000,Manual,840000
+Subaru,Impreza,sedan,grey,Gasoline,124000,CVT,990000
+Lexus,RX350,jeep 5 doors,white,Gasoline,33000,AT,7950000
+Lexus,GX460,jeep 5 doors,black,Gasoline,199000,AT,3300000
+Honda,Fit,hatchback 5 doors,,Gasoline,15000,CVT,1260000
+Subaru,Forester,jeep 5 doors,black,Gasoline,180000,AT,720000
+Toyota,C-HR,jeep 5 doors,silver,Gasoline,147000,CVT,1570000
+BMW,X5,jeep 5 doors,grey,Gasoline,72000,AT,5700000
+Honda,Shuttle,station wagon,black,Gasoline,11000,CVT,1145000
+Toyota,C-HR,jeep 5 doors,white,Gasoline,17000,CVT,1470000
+Mini,Countryman,hatchback 5 doors,brown,Gasoline,64000,AT,2180000
+Mercedes-Benz,GLS-Class,jeep 5 doors,white,Diesel,54000,AT,8450000
+Daihatsu,Tanto,hatchback 5 doors,,Gasoline,32000,CVT,940000
+Honda,Fit,hatchback 5 doors,silver,Gasoline,21000,Robot,830000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,30000,CVT,1990000
+Mercedes-Benz,GLS-Class,jeep 5 doors,blue,Diesel,53000,AT,5900000
+Honda,Accord,station wagon,black,Gasoline,150000,AT,1250000
+Nissan,Cube,hatchback 5 doors,white,Gasoline,187000,CVT,420000
+Toyota,Allion,sedan,white,Gasoline,120000,CVT,1135000
+Honda,Fit,hatchback 5 doors,white,Gasoline,130000,Robot,780000
+Nissan,Note,hatchback 5 doors,white,Gasoline,45000,AT,1185000
+Audi,A7,liftback,white,Gasoline,63000,Automatic,5600000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,130000,AT,2750000
+Toyota,Prius Alpha,minivan,black,Gasoline,187000,CVT,1088000
+Toyota,Noah,minivan,silver,Gasoline,44000,CVT,2240000
+Toyota,Land Cruiser Prado,jeep 5 doors,brown,Gasoline,,AT,4750000
+Ford,Fiesta,hatchback 5 doors,burgundy,Gasoline,35000,Automatic,800000
+Lexus,CT200h,hatchback 5 doors,black,Gasoline,184000,CVT,1230000
+Nissan,AD,station wagon,white,Gasoline,31000,AT,690000
+Maserati,Levante,jeep 5 doors,black,Gasoline,38000,AT,3900000
+Toyota,Camry,sedan,white,Gasoline,92000,CVT,2350000
+Genesis,G70,sedan,black,Gasoline,41000,AT,2200000
+Subaru,Forester,jeep 5 doors,silver,Gasoline,69000,CVT,1680000
+Mazda,CX-8,jeep 5 doors,grey,Diesel,172000,AT,1800000
+Subaru,Levorg,station wagon,silver,Gasoline,147000,CVT,1200000
+Toyota,Sienta,minivan,red,Gasoline,108000,CVT,750000
+Toyota,Sienta,minivan,black,Gasoline,15000,CVT,880000
+Lexus,GX460,jeep 5 doors,black,Gasoline,180000,AT,3850000
+Mercedes-Benz,CLA-Class,sedan,black,Gasoline,14000,Robot,3500000
+Land Rover,Range Rover,jeep 5 doors,black,Gasoline,90000,AT,5999000
+Mercedes-Benz,E-Class,sedan,black,Gasoline,66000,AT,3500000
+Land Rover,Range Rover Evoque,jeep 5 doors,brown,Gasoline,38000,AT,2700000
+BMW,X3,jeep 5 doors,white,Diesel,70000,AT,4590000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,13000,AT,4100000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,15000,AT,3810000
+Nissan,Note,hatchback 5 doors,brown,Gasoline,77000,CVT,750000
+Audi,Q7,jeep 5 doors,black,Gasoline,31000,Automatic,4450000
+Toyota,C-HR,jeep 5 doors,silver,Gasoline,92000,CVT,1420000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,52000,AT,3715000
+Toyota,Tank,hatchback 5 doors,red,Gasoline,36000,CVT,795000
+Lexus,LS500,sedan,silver,Gasoline,53000,AT,4500000
+Toyota,Mark II,sedan,grey,Gasoline,136000,AT,560000
+Mercedes-Benz,G-Class,jeep 5 doors,black,Gasoline,13000,AT,23000000
+Subaru,XV,jeep 5 doors,white,Gasoline,96000,CVT,1370000
+Honda,Vezel,jeep 5 doors,green,Gasoline,108000,Robot,1150000
+Land Rover,Range Rover,jeep 5 doors,brown,Gasoline,202000,AT,1850000
+Lexus,UX200,jeep 5 doors,white,Gasoline,50000,CVT,2275000
+Toyota,Aqua,hatchback 5 doors,blue,Gasoline,42000,CVT,750000
+Haval,Jolion,jeep 5 doors,white,Gasoline,,Robot,2297160
+BMW,5-Series,sedan,black,Gasoline,93000,Automatic,2440000
+BMW,X7,jeep 5 doors,white,Gasoline,41000,AT,9000000
+Subaru,Forester,jeep 5 doors,black,Gasoline,4000,CVT,2585000
+Mercedes-Benz,S-Class,sedan,black,Diesel,108000,AT,2850000
+Toyota,Probox,station wagon,white,Gasoline,112000,CVT,770000
+Toyota,Mark X,sedan,white,Gasoline,80000,AT,3000000
+Porsche,Panamera,liftback,white,Gasoline,35000,Automatic,6500000
+Toyota,Land Cruiser,jeep 5 doors,black,Diesel,202000,AT,4600000
+Nissan,Note,hatchback 5 doors,red,Gasoline,85000,CVT,610000
+Toyota,Voxy,minivan,white,Gasoline,83000,CVT,2000000
+Mitsubishi,Outlander,jeep 5 doors,,Gasoline,120000,AT,615000
+Honda,Vezel,jeep 5 doors,grey,Gasoline,17000,Robot,1585000
+Toyota,C-HR,jeep 5 doors,white,Gasoline,53000,CVT,1725000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,25000,AT,3895000
+Toyota,Premio,sedan,silver,Gasoline,152000,CVT,1200000
+Lexus,LX570,jeep 5 doors,black,Gasoline,76000,AT,7990000
+Lexus,NX300h,jeep 5 doors,burgundy,Gasoline,150000,CVT,2680000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,28000,CVT,4499999
+Toyota,C-HR,jeep 5 doors,black,Gasoline,83000,CVT,1660000
+Mercedes-Benz,C-Class,coupe,white,Gasoline,31000,AT,1850000
+Toyota,Aristo,sedan,white,Gasoline,140000,AT,1700000
+Honda,S660,open,white,Gasoline,35000,CVT,1040000
+Nissan,Leaf,hatchback 5 doors,white,Electro,126000,AT,1444000
+Toyota,Harrier,jeep 5 doors,grey,Gasoline,165000,AT,950000
+Nissan,Note,hatchback 5 doors,burgundy,Gasoline,173000,AT,475000
+Toyota,Crown,sedan,silver,Gasoline,199000,CVT,2570000
+Lexus,RX200t,jeep 5 doors,white,Gasoline,50000,AT,3750000
+Toyota,Prius,liftback,grey,Gasoline,244000,CVT,899999
+Toyota,Vanguard,jeep 5 doors,white,Gasoline,190000,CVT,1150000
+Toyota,RAV4,jeep 5 doors,brown,Gasoline,143000,CVT,1170000
+Toyota,Allion,sedan,black,Gasoline,209000,CVT,890000
+Audi,A6,sedan,white,Gasoline,211000,CVT,1400000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,163000,CVT,2210000
+Toyota,Carina,sedan,green,Gasoline,175000,AT,300000
+UAZ,Buhanka,minivan,brown,Gasoline,7000,Manual,400000
+Honda,Grace,sedan,brown,Gasoline,33000,Robot,1050000
+Mazda,Flair Wagon,hatchback 5 doors,grey,Gasoline,151000,CVT,605000
+Honda,Fit,hatchback 5 doors,white,Gasoline,154000,CVT,650000
+Honda,Fit,hatchback 5 doors,white,Gasoline,100000,CVT,888000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,150000,CVT,545000
+Honda,Stream,minivan,,Gasoline,108000,AT,825000
+Toyota,Carina,sedan,white,Gasoline,120000,AT,75000
+Mercedes-Benz,C-Class,sedan,white,Diesel,65000,Automatic,1750000
+Toyota,Prius,liftback,white,Gasoline,156000,CVT,800000
+Subaru,XV,jeep 5 doors,orange,Gasoline,8000,CVT,1655000
+Toyota,Vitz,hatchback 5 doors,blue,Gasoline,160000,CVT,400000
+BMW,X4,jeep 5 doors,black,Diesel,45000,AT,5000000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,11000,AT,4250000
+Nissan,Elgrand,minivan,grey,Diesel,80000,AT,350000
+Toyota,Hilux,pickup,grey,Diesel,,AT,3650000
+Toyota,Crown,sedan,white,Gasoline,90000,CVT,3899000
+Toyota,Prius,liftback,grey,Gasoline,211000,CVT,780000
+Toyota,Prius,sedan,grey,Gasoline,130000,Automatic,530000
+Toyota,Cresta,sedan,white,Gasoline,230000,AT,850000
+Nissan,X-Trail,jeep 5 doors,black,Gasoline,79000,CVT,1285000
+Toyota,Corolla Fielder,station wagon,,Gasoline,150000,CVT,1030000
+Toyota,Allion,sedan,blue,Gasoline,180000,CVT,770000
+Toyota,Sprinter Carib,station wagon,black,Gasoline,41000,AT,370000
+Toyota,Land Cruiser,jeep 5 doors,white,Gasoline,255000,AT,1500000
+Toyota,Caldina,station wagon,grey,Gasoline,188000,Manual,90000
+Toyota,RAV4,jeep 5 doors,green,Gasoline,107000,AT,455000
+Subaru,Forester,jeep 5 doors,silver,Gasoline,37000,AT,490000
+Nissan,Dualis,jeep 5 doors,burgundy,Gasoline,172000,CVT,1015000
+Toyota,Probox,station wagon,white,Gasoline,187000,AT,310000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,153000,AT,2300000
+Toyota,Land Cruiser,jeep 5 doors,black,Diesel,280000,AT,2700000
+Toyota,Noah,minivan,,Gasoline,100000,CVT,1450000
+Toyota,Passo,hatchback 5 doors,black,Gasoline,50000,CVT,585000
+Toyota,Prius,liftback,black,Gasoline,109000,CVT,1085000
+Toyota,Prius,liftback,grey,Gasoline,200000,CVT,715000
+Subaru,Forester,jeep 5 doors,,Gasoline,6000,CVT,2450000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,90000,CVT,1205000
+Nissan,DAYZ,hatchback 5 doors,white,Gasoline,129000,CVT,495000
+Honda,Accord,sedan,black,Gasoline,222000,AT,820000
+Toyota,Wish,minivan,white,Gasoline,95000,CVT,1050000
+Mitsubishi,ASX,jeep 5 doors,black,Gasoline,173000,CVT,888888
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,190000,AT,1880000
+Honda,Fit,hatchback 5 doors,white,Gasoline,157000,CVT,385000
+Honda,Fit,hatchback 5 doors,blue,Gasoline,236000,CVT,500001
+Toyota,Allion,sedan,white,Gasoline,55000,CVT,1045000
+Toyota,Alphard,minivan,white,Gasoline,46000,AT,570000
+Toyota,Mark X,sedan,grey,Gasoline,65000,AT,360000
+Toyota,Premio,sedan,grey,Gasoline,87000,CVT,905000
+Nissan,Note,hatchback 5 doors,white,Gasoline,101000,CVT,645000
+Honda,Fit Shuttle,station wagon,,Gasoline,105000,CVT,778000
+Toyota,Hilux Surf,jeep 5 doors,grey,Diesel,1000,AT,920000
+Honda,Freed+,minivan,burgundy,Gasoline,45000,CVT,1250000
+Subaru,Legacy,station wagon,grey,Gasoline,100000,AT,120000
+Toyota,Vitz,hatchback 5 doors,silver,Gasoline,49000,CVT,599999
+Toyota,Mark II,sedan,grey,Gasoline,320000,AT,670000
+Mitsubishi,Pajero,jeep 3 doors,grey,Gasoline,290000,AT,670000
+Toyota,Prius,liftback,silver,Gasoline,62000,CVT,775000
+Toyota,Caldina,station wagon,grey,Gasoline,280000,AT,525000
+Mitsubishi,Outlander,jeep 5 doors,black,Gasoline,151000,CVT,1250000
+Toyota,Allion,sedan,grey,Gasoline,47000,CVT,975000
+Toyota,Sienta,minivan,silver,Gasoline,68000,CVT,1040000
+Nissan,Avenir,station wagon,,Diesel,133000,Manual,77000
+Nissan,Gloria,sedan,blue,Gasoline,269000,AT,370000
+Toyota,Passo,hatchback 5 doors,silver,Gasoline,73000,CVT,657000
+Hyundai,Staria,minivan,white,Diesel,29000,AT,3290000
+Mazda,CX-5,jeep 5 doors,black,Gasoline,190000,AT,1600000
+Nissan,X-Trail,jeep 5 doors,red,Gasoline,152000,CVT,1320000
+Hyundai,Grand Starex,minivan,,Diesel,33000,Automatic,2488000
+Toyota,Camry,sedan,,Gasoline,24000,AT,2050000
+Toyota,Prius,liftback,,Gasoline,106000,CVT,1435000
+Honda,Fit Shuttle,station wagon,grey,Gasoline,162000,CVT,755000
+Nissan,Juke,jeep 5 doors,burgundy,Gasoline,40000,CVT,1100000
+Hyundai,Grand Starex,minivan,,Diesel,83000,Automatic,2350000
+Honda,Fit,hatchback 5 doors,,Gasoline,89000,CVT,665000
+Mazda,CX-8,jeep 5 doors,grey,Diesel,50000,AT,2200000
+Toyota,Passo Sette,minivan,burgundy,Gasoline,65000,AT,725000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,61000,AT,3000000
+Subaru,Forester,jeep 5 doors,white,Gasoline,,CVT,3650000
+Hyundai,Santa Fe,jeep 5 doors,black,Gasoline,60000,AT,2100000
+Honda,N-WGN,hatchback 5 doors,,Gasoline,130000,CVT,520000
+Daihatsu,YRV,hatchback 5 doors,white,Gasoline,170000,AT,235000
+Mitsubishi,RVR,jeep 5 doors,grey,Gasoline,93000,CVT,998000
+Toyota,Prius Alpha,minivan,black,Gasoline,112000,CVT,1222000
+Toyota,Isis,minivan,burgundy,Gasoline,106000,CVT,995000
+Toyota,Auris,hatchback 5 doors,white,Gasoline,120000,CVT,1070000
+Toyota,Corolla Fielder,station wagon,grey,Gasoline,90000,CVT,817000
+Toyota,Estima,minivan,white,Gasoline,140000,CVT,515000
+Toyota,Ractis,hatchback 5 doors,,Gasoline,35000,CVT,815000
+Nissan,Serena,minivan,white,Gasoline,150000,CVT,350000
+Honda,HR-V,jeep 5 doors,white,Gasoline,250000,CVT,265000
+Honda,Insight,sedan,black,Gasoline,33000,CVT,1895000
+Mercedes-Benz,S-Class,sedan,silver,Gasoline,130000,Automatic,465000
+Toyota,Alphard,minivan,black,Gasoline,133000,CVT,3845000
+Toyota,Sai,sedan,white,Gasoline,190000,CVT,849000
+Toyota,Aqua,hatchback 5 doors,yellow,Gasoline,116000,CVT,650000
+Toyota,Sienta,minivan,,Gasoline,138000,CVT,815000
+Nissan,Juke,jeep 5 doors,red,Gasoline,148000,CVT,870000
+Toyota,Isis,minivan,white,Gasoline,188000,CVT,700000
+Toyota,Land Cruiser Prado,jeep 5 doors,,Diesel,42000,AT,4400000
+Mitsubishi,Pajero,jeep 3 doors,green,Diesel,277000,Automatic,465000
+Toyota,Alphard,minivan,black,Gasoline,144000,AT,570000
+Daihatsu,Move,hatchback 5 doors,grey,Gasoline,132000,CVT,350000
+Subaru,Forester,jeep 5 doors,black,Gasoline,50000,CVT,2510000
+Toyota,Prius Alpha,minivan,grey,Gasoline,323000,CVT,950000
+Toyota,Prius Alpha,minivan,white,Gasoline,220000,CVT,1000000
+Toyota,Prius,liftback,,Gasoline,19000,CVT,1595000
+Toyota,Sienta,minivan,,Gasoline,112000,CVT,810000
+BMW,M5,sedan,grey,Gasoline,46000,Automatic,8000000
+BMW,5-Series,sedan,white,Gasoline,18000,Automatic,2750000
+Toyota,Land Cruiser,jeep 5 doors,white,Diesel,200000,AT,3100000
+Toyota,Voxy,minivan,white,Gasoline,189000,CVT,980000
+Toyota,Vellfire,minivan,black,Gasoline,199000,CVT,3310000
+Toyota,Land Cruiser,jeep 5 doors,grey,Gasoline,295000,AT,1250000
+Toyota,Corolla,sedan,brown,Gasoline,350000,Automatic,95000
+Toyota,Prius,liftback,,Gasoline,140000,CVT,1099000
+Toyota,Ipsum,minivan,silver,Gasoline,48000,AT,445000
+Nissan,Terrano,jeep 5 doors,silver,Diesel,198000,AT,370000
+Subaru,Impreza,hatchback 5 doors,grey,Gasoline,239000,Manual,450000
+Toyota,Hiace,minivan,white,Diesel,130000,Automatic,2750000
+Mazda,Bongo,minivan,white,Gasoline,126000,AT,550000
+Nissan,Cedric,sedan,black,Gasoline,299000,AT,134999
+Nissan,Note,hatchback 5 doors,pink,Gasoline,26000,CVT,768000
+Honda,HR-V,jeep 5 doors,white,Gasoline,190000,CVT,380000
+Toyota,Aqua,hatchback 5 doors,grey,Gasoline,189000,CVT,655000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,47000,CVT,810000
+Toyota,Passo,hatchback 5 doors,silver,Gasoline,54000,CVT,385000
+Toyota,Aqua,hatchback 5 doors,,Gasoline,51000,CVT,839000
+Nissan,Teana,sedan,blue,Gasoline,113000,CVT,1185000
+Honda,Stream,minivan,,Gasoline,70000,AT,840000
+Toyota,Prius,liftback,black,Gasoline,101000,CVT,1100000
+Honda,N-BOX,hatchback 5 doors,violet,Gasoline,129000,CVT,600000
+Toyota,Prius,liftback,silver,Gasoline,180000,CVT,730000
+Toyota,Sprinter Carib,station wagon,white,Gasoline,156000,Manual,88000
+Toyota,Probox,station wagon,white,Gasoline,300000,AT,325000
+Nissan,Avenir,station wagon,grey,Gasoline,120000,AT,90000
+Honda,CR-V,jeep 5 doors,silver,Gasoline,280000,AT,620000
+Toyota,Land Cruiser Prado,jeep 5 doors,,Gasoline,4000,AT,4075000
+Lexus,RX200t,jeep 5 doors,white,Gasoline,60000,AT,3600000
+Toyota,Crown,sedan,grey,Gasoline,112000,CVT,2580000
+Toyota,Crown,sedan,white,Gasoline,90000,CVT,2470000
+Toyota,Crown,sedan,grey,Gasoline,100000,CVT,3900000
+Honda,Stream,minivan,black,Gasoline,160000,AT,870000
+Toyota,Land Cruiser,jeep 5 doors,white,Diesel,158000,AT,6499000
+Toyota,Land Cruiser,jeep 5 doors,grey,Diesel,230000,AT,930000
+Toyota,C-HR,jeep 5 doors,white,Gasoline,68000,CVT,2000000
+Toyota,Mark II,sedan,white,Gasoline,230000,AT,450000
+Toyota,Crown,sedan,white,Gasoline,124000,AT,390000
+Honda,CR-V,jeep 5 doors,white,Gasoline,210000,AT,440000
+Toyota,Crown,sedan,,Gasoline,91000,CVT,2700000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,150000,AT,2550000
+Subaru,Levorg,station wagon,,Gasoline,137000,CVT,1450000
+Nissan,X-Trail,jeep 5 doors,red,Gasoline,230000,CVT,999000
+Suzuki,Swift,hatchback 5 doors,grey,Gasoline,163000,AT,290000
+Toyota,Esquire,minivan,black,Gasoline,69000,CVT,1540000
+Toyota,Vellfire,minivan,black,Gasoline,51000,CVT,2990000
+Subaru,Legacy Lancaster,station wagon,grey,Gasoline,340000,AT,320000
+Subaru,Forester,jeep 5 doors,,Gasoline,100000,CVT,1570000
+Toyota,Wish,minivan,black,Gasoline,166000,CVT,840000
+Nissan,X-Trail,jeep 5 doors,,Gasoline,60000,CVT,1690000
+Honda,Vezel,jeep 5 doors,,Gasoline,52000,CVT,1400000
+Toyota,Corolla,sedan,white,Gasoline,74000,Manual,320000
+Nissan,Titan,pickup,grey,Gasoline,210000,AT,700000
+Toyota,Corona Premio,sedan,grey,Gasoline,136000,AT,230000
+Toyota,Land Cruiser,jeep 5 doors,white,Diesel,250000,AT,1700000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,290000,AT,990000
+Toyota,Corolla,station wagon,,Gasoline,194000,AT,150000
+Lada,4x4 Urban,jeep 3 doors,brown,Gasoline,44000,Manual,730000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,80000,CVT,690000
+Toyota,Corolla,station wagon,white,Gasoline,350000,AT,220000
+Honda,CR-V,jeep 5 doors,silver,Gasoline,180000,AT,1050000
+Honda,Fit Shuttle,station wagon,grey,Gasoline,183000,CVT,650000
+Toyota,Mark II,sedan,beige,Gasoline,90000,AT,675000
+Audi,Q7,jeep 5 doors,white,Diesel,125000,AT,3200000
+Toyota,Mark II,sedan,grey,Gasoline,123000,AT,590000
+Mercedes-Benz,M-Class,jeep 5 doors,white,Gasoline,110000,AT,3540000
+Toyota,Noah,minivan,grey,Gasoline,141000,CVT,1510000
+Nissan,Note,hatchback 5 doors,white,Gasoline,1000,CVT,640000
+Toyota,Ipsum,minivan,grey,Gasoline,207000,AT,550000
+Land Rover,Range Rover Evoque,jeep 5 doors,brown,Gasoline,112000,AT,2650000
+Toyota,Allion,sedan,grey,Gasoline,1000,CVT,785000
+Mazda,Demio,hatchback 5 doors,grey,Gasoline,120000,AT,650000
+Toyota,Prius,liftback,white,Gasoline,108000,CVT,735000
+Honda,Vezel,jeep 5 doors,white,Gasoline,3000,CVT,2545000
+Toyota,Mark II,sedan,black,Gasoline,250000,AT,425000
+Audi,Q5,jeep 5 doors,black,Gasoline,42000,Automatic,2050000
+Toyota,Land Cruiser Prado,jeep 5 doors,silver,Gasoline,180000,AT,1150000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,34000,CVT,2545000
+Honda,Fit,hatchback 5 doors,black,Gasoline,200000,CVT,315000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,199000,AT,1600000
+Lexus,GX470,jeep 5 doors,white,Gasoline,290000,AT,1450000
+Mercedes-Benz,S-Class,sedan,,Diesel,45000,AT,4060000
+Toyota,Corolla Fielder,station wagon,white,Gasoline,90000,CVT,950000
+Honda,Accord,sedan,grey,Gasoline,60000,CVT,1650000
+Toyota,C-HR,jeep 5 doors,green,Gasoline,70000,CVT,1650000
+Mitsubishi,Pajero Mini,jeep 3 doors,grey,Gasoline,240000,Manual,250000
+Nissan,AD,station wagon,white,Gasoline,52000,AT,715000
+Toyota,Vellfire,minivan,,Gasoline,180000,AT,635000
+Toyota,Hiace,minivan,white,Diesel,390000,AT,630000
+Toyota,Harrier,jeep 5 doors,grey,Gasoline,92000,CVT,2050000
+Honda,MDX,jeep 5 doors,black,Gasoline,240000,AT,440000
+Nissan,Juke,jeep 5 doors,grey,Gasoline,160000,CVT,700000
+Suzuki,Jimny Sierra,jeep 3 doors,white,Gasoline,32000,Manual,2000000
+Lexus,RX450h,jeep 5 doors,black,Gasoline,108000,CVT,3750000
+Toyota,Aqua,hatchback 5 doors,silver,Gasoline,110000,CVT,895000
+Toyota,Land Cruiser,jeep 5 doors,green,Diesel,381000,Automatic,1690000
+Honda,Accord,sedan,golden,Gasoline,138000,CVT,1620000
+Daihatsu,Move Conte,hatchback 5 doors,white,Gasoline,78000,CVT,405000
+Toyota,Vitz,hatchback 5 doors,,Gasoline,116000,CVT,725000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,25000,AT,3130000
+Suzuki,Jimny,jeep 3 doors,,Gasoline,90000,AT,815000
+Toyota,Mark II,sedan,white,Gasoline,500000,AT,260000
+Toyota,Corolla Fielder,station wagon,silver,Gasoline,115000,CVT,755000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,173000,AT,1000000
+Mazda,Demio,hatchback 5 doors,black,Gasoline,200000,AT,360000
+Honda,Vezel,jeep 5 doors,white,Gasoline,148000,Robot,1245000
+Toyota,Corolla Axio,sedan,white,Gasoline,117000,CVT,580000
+Honda,Fit,hatchback 5 doors,,Gasoline,103000,Robot,915000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,36000,CVT,2285000
+Subaru,Outback,jeep 5 doors,,Gasoline,149000,CVT,425000
+Nissan,Safari,jeep 5 doors,black,Diesel,290000,AT,1150000
+Honda,Fit,hatchback 5 doors,black,Gasoline,93000,CVT,589000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,116000,CVT,489000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,49000,CVT,599000
+Toyota,Corolla Fielder,station wagon,,Gasoline,61000,CVT,1030000
+Toyota,Passo,hatchback 5 doors,black,Gasoline,78000,CVT,559000
+Nissan,Serena,minivan,white,Gasoline,14000,AT,2000000
+Nissan,Juke,jeep 5 doors,black,Gasoline,92000,CVT,790000
+Toyota,C-HR,jeep 5 doors,grey,Gasoline,16000,CVT,1970000
+Honda,Orthia,station wagon,white,Gasoline,262000,AT,255000
+Toyota,Wish,minivan,black,Gasoline,83000,CVT,1225000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Gasoline,170000,AT,2230000
+Honda,Stepwgn,minivan,,Gasoline,150000,CVT,1310000
+GAZ,Pobeda,liftback,green,Gasoline,1000,Manual,50000
+Nissan,Note,hatchback 5 doors,silver,Gasoline,32000,AT,924000
+Hyundai,Solaris,sedan,beige,Gasoline,85000,AT,985000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,25000,AT,3499999
+Toyota,Corolla Fielder,station wagon,white,Gasoline,188000,CVT,735000
+Toyota,Funcargo,hatchback 5 doors,black,Gasoline,350000,AT,220000
+Mitsubishi,Eclipse Cross,jeep 5 doors,red,Gasoline,20000,CVT,3250000
+Nissan,Juke,jeep 5 doors,white,Gasoline,70000,CVT,950000
+Infiniti,FX35,jeep 5 doors,black,Gasoline,87000,AT,1200000
+Mazda,Premacy,minivan,grey,Gasoline,87000,AT,515000
+Mazda,CX-3,jeep 5 doors,black,Diesel,130000,AT,1050000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,25000,AT,3859000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,49000,AT,3759000
+Honda,CR-V,jeep 5 doors,white,Gasoline,34000,CVT,2759000
+Honda,Shuttle,station wagon,grey,Gasoline,68000,Robot,1085000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,158000,AT,1109000
+Lexus,RX400h,jeep 5 doors,silver,Gasoline,200000,CVT,1180000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,128000,AT,679000
+Toyota,Vellfire,minivan,grey,Gasoline,137000,AT,649000
+Honda,Fit,hatchback 5 doors,black,Gasoline,119000,CVT,648000
+Toyota,Allion,sedan,white,Gasoline,67000,CVT,878000
+Toyota,Mark X,sedan,white,Gasoline,134000,AT,1550000
+Nissan,Pulsar,sedan,grey,Gasoline,160000,Manual,40000
+Lexus,LX570,jeep 5 doors,black,Gasoline,226000,AT,4000000
+Toyota,Kluger V,jeep 5 doors,black,Gasoline,100000,AT,559000
+Nissan,March,hatchback 5 doors,grey,Gasoline,130000,AT,320000
+Toyota,Mark X,sedan,white,Gasoline,240000,AT,1250000
+Subaru,Forester,jeep 5 doors,white,Gasoline,131000,Manual,559000
+Honda,HR-V,jeep 5 doors,violet,Gasoline,290000,CVT,370000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,98000,AT,2200000
+Toyota,Estima,minivan,black,Gasoline,127000,AT,539000
+Toyota,Harrier,jeep 5 doors,blue,Gasoline,114000,AT,529000
+Toyota,Corolla Fielder,station wagon,grey,Gasoline,137000,CVT,800000
+Toyota,Alphard,minivan,black,Gasoline,43000,CVT,3850000
+Lexus,RX350,jeep 5 doors,grey,Gasoline,80000,AT,2150000
+Subaru,Outback,jeep 5 doors,white,Gasoline,95000,CVT,459000
+Subaru,Chiffon,hatchback 5 doors,black,Gasoline,130000,CVT,655000
+Toyota,Corolla Axio,sedan,burgundy,Gasoline,97000,CVT,770000
+Toyota,Vitz,hatchback 5 doors,white,Gasoline,100000,CVT,715000
+Honda,Freed,minivan,white,Gasoline,96000,CVT,1210000
+Subaru,Outback,jeep 5 doors,white,Gasoline,112000,CVT,449000
+Toyota,Estima,minivan,white,Gasoline,137000,AT,409000
+Mitsubishi,Legnum,station wagon,white,Gasoline,150000,AT,230000
+Honda,Freed,minivan,blue,Gasoline,140000,CVT,810000
+Honda,Legend,sedan,black,Gasoline,136000,AT,990000
+Toyota,Isis,minivan,grey,Gasoline,175000,CVT,685000
+Toyota,RAV4,jeep 5 doors,white,Gasoline,22000,CVT,2815000
+Toyota,Wish,minivan,white,Gasoline,42000,CVT,1490000
+Toyota,RAV4,jeep 5 doors,white,Gasoline,25000,CVT,2620000
+Toyota,C-HR,jeep 5 doors,green,Gasoline,106000,CVT,1430000
+Toyota,Corolla Fielder,station wagon,white,Gasoline,74000,CVT,1180000
+Honda,Odyssey,minivan,white,Gasoline,109000,AT,379000
+Toyota,Cresta,sedan,white,Gasoline,230000,AT,300000
+Nissan,AD,station wagon,white,Gasoline,178000,CVT,548000
+Mitsubishi,Pajero,jeep 5 doors,red,Diesel,389000,Manual,400000
+Honda,Fit Shuttle,station wagon,violet,Gasoline,118000,CVT,850007
+Toyota,Sienta,minivan,black,Gasoline,120000,CVT,1100000
+Toyota,Alphard,minivan,,Gasoline,169000,CVT,3300000
+Daihatsu,Move,hatchback 5 doors,white,Gasoline,100000,CVT,569000
+Toyota,RAV4,jeep 5 doors,,Gasoline,30000,CVT,2655000
+Toyota,Camry,sedan,silver,Gasoline,270000,AT,500000
+Toyota,Aqua,hatchback 5 doors,white,Gasoline,55000,CVT,1195000
+Toyota,C-HR,jeep 5 doors,black,Gasoline,45000,CVT,1450000
+Mazda,Axela,sedan,white,Gasoline,204000,AT,360000
+Toyota,Caldina,station wagon,white,Diesel,260000,AT,135000
+Toyota,Corolla Axio,sedan,grey,Gasoline,155000,CVT,620000
+Daihatsu,Terios Kid,jeep 5 doors,black,Gasoline,183000,AT,219000
+Honda,Fit Shuttle,station wagon,white,Gasoline,150000,CVT,755000
+Suzuki,Jimny,jeep 3 doors,blue,Gasoline,82000,Manual,565000
+Lada,Priora,sedan,silver,Gasoline,135000,Manual,245000
+Lexus,RX450h,jeep 5 doors,white,Gasoline,69000,CVT,3749000
+Toyota,Voxy,minivan,white,Gasoline,91000,CVT,1450000
+Lexus,CT200h,hatchback 5 doors,grey,Gasoline,185000,CVT,1050000
+Toyota,Nadia,minivan,white,Gasoline,237000,AT,370000
+Toyota,Corolla,sedan,white,Gasoline,160000,AT,185000
+Mitsubishi,Outlander,jeep 5 doors,white,Gasoline,64000,CVT,1350000
+Toyota,Corolla Fielder,station wagon,grey,Gasoline,154000,CVT,700000
+Mitsubishi,Mirage,hatchback 3 door,white,Gasoline,183000,AT,190000
+Honda,Fit Shuttle,station wagon,white,Gasoline,137000,CVT,749000
+Honda,Fit Shuttle,station wagon,silver,Gasoline,100000,CVT,895000
+Honda,Vezel,jeep 5 doors,black,Gasoline,64000,Robot,1425000
+Toyota,RAV4,jeep 5 doors,black,Gasoline,30000,CVT,2700000
+Nissan,AD,station wagon,white,Gasoline,250000,AT,195000
+Mini,Countryman,hatchback 5 doors,red,Gasoline,117000,Automatic,1250000
+Mazda,Demio,hatchback 5 doors,blue,Gasoline,95000,AT,610000
+Nissan,Juke,jeep 5 doors,red,Gasoline,50000,CVT,925000
+Volkswagen,Tiguan,jeep 5 doors,silver,Gasoline,83000,Robot,3100000
+Toyota,Corsa,sedan,white,Gasoline,250000,AT,140000
+Nissan,Juke,jeep 5 doors,red,Gasoline,124000,CVT,700000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,34000,AT,3360000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,100000,CVT,680000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Gasoline,153000,AT,3450000
+Toyota,Crown,sedan,white,Gasoline,300000,AT,240000
+Toyota,Prius,liftback,white,Gasoline,142000,CVT,855000
+Mitsubishi,Outlander,jeep 5 doors,white,Gasoline,123000,CVT,1450000
+Lexus,NX200t,jeep 5 doors,white,Gasoline,20000,AT,2800000
+Suzuki,Swift,hatchback 5 doors,blue,Gasoline,151000,CVT,550000
+Honda,Crossroad,jeep 5 doors,white,Gasoline,162000,AT,935000
+Honda,HR-V,jeep 3 doors,white,Gasoline,257000,CVT,300000
+Toyota,Land Cruiser,jeep 5 doors,white,Gasoline,277000,AT,2350000
+Toyota,Caldina,station wagon,white,Gasoline,126000,AT,565000
+Honda,Freed Spike,minivan,,Gasoline,65000,CVT,960000
+Honda,Fit,hatchback 5 doors,white,Gasoline,167000,CVT,475000
+Toyota,Prius,liftback,white,Gasoline,200000,CVT,560000
+Subaru,Outback,station wagon,beige,Gasoline,142000,AT,720000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,155000,CVT,300000
+Honda,Civic Ferio,sedan,white,Gasoline,320000,AT,120000
+Mercedes-Benz,M-Class,jeep 5 doors,black,Gasoline,170000,AT,615000
+Honda,Shuttle,station wagon,white,Gasoline,70000,CVT,1145000
+Lexus,LX450d,jeep 5 doors,grey,Diesel,45000,AT,10000000
+Toyota,Land Cruiser,jeep 5 doors,grey,Diesel,300000,Manual,1250000
+Toyota,Sprinter,sedan,white,Gasoline,1000,Manual,130000
+Mitsubishi,Pajero,jeep 5 doors,white,Diesel,100000,AT,3080000
+Lexus,NX200t,jeep 5 doors,black,Gasoline,52000,AT,3100000
+Lexus,RX450h,jeep 5 doors,white,Gasoline,125000,CVT,2500000
+Nissan,Skyline,sedan,grey,Gasoline,195000,AT,290000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Gasoline,225000,AT,1650000
+Mitsubishi,Outlander,jeep 5 doors,white,Gasoline,100000,AT,1500000
+Toyota,Corolla Fielder,station wagon,grey,Gasoline,128000,CVT,750000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,252000,CVT,890000
+Nissan,X-Trail,jeep 5 doors,white,Gasoline,86000,CVT,1480000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Diesel,77000,AT,3420000
+Toyota,Crown,sedan,silver,Gasoline,98000,AT,425000
+Toyota,Vellfire,minivan,white,Gasoline,123000,CVT,1800000
+Toyota,Passo,hatchback 5 doors,black,Gasoline,35000,CVT,525000
+Nissan,Tiida,hatchback 5 doors,grey,Gasoline,74000,AT,650000
+Toyota,Hilux Surf,jeep 5 doors,white,Diesel,319000,AT,900000
+Honda,Fit,hatchback 5 doors,white,Gasoline,98000,CVT,795000
+Honda,Freed Spike,minivan,,Gasoline,101000,CVT,887000
+Nissan,Serena,minivan,,Gasoline,20000,AT,1950000
+Suzuki,Wagon R,hatchback 5 doors,blue,Gasoline,48000,CVT,495000
+Honda,Vezel,jeep 5 doors,white,Gasoline,99000,Robot,1420000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,149000,CVT,465000
+Honda,Accord,sedan,grey,Gasoline,370000,AT,330000
+Toyota,Alphard,minivan,,Gasoline,1000,AT,499999
+Toyota,Sai,sedan,white,Gasoline,123000,CVT,1400000
+Honda,HR-V,jeep 5 doors,,Gasoline,170000,Automatic,195000
+Toyota,Land Cruiser Prado,jeep 5 doors,silver,Gasoline,223000,AT,1750000
+Toyota,Passo,hatchback 5 doors,,Gasoline,115000,CVT,519000
+Toyota,Rush,jeep 5 doors,golden,Gasoline,62000,Manual,1155000
+Toyota,Mark II,sedan,white,Gasoline,250000,AT,270000
+Suzuki,Wagon R,hatchback 5 doors,grey,Gasoline,107000,CVT,385000
+Mazda,Axela,hatchback 5 doors,,Gasoline,77000,CVT,810000
+Toyota,Crown,sedan,white,Gasoline,200000,AT,270000
+Toyota,Prius Alpha,minivan,white,Gasoline,92000,CVT,1165000
+Toyota,Hiace,minivan,grey,Diesel,360000,AT,600000
+Lexus,CT200h,hatchback 5 doors,white,Gasoline,185000,CVT,1050000
+Mazda,Axela,sedan,grey,Gasoline,66000,AT,1260000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Gasoline,53000,AT,3340000
+Toyota,Land Cruiser Prado,jeep 5 doors,brown,Diesel,180000,AT,730000
+Toyota,Voxy,minivan,black,Gasoline,7000,Automatic,2110000
+Honda,Accord,sedan,black,Gasoline,200000,CVT,1340000
+Toyota,Prius Alpha,minivan,burgundy,Gasoline,125000,CVT,1245000
+Toyota,Prius Alpha,minivan,grey,Gasoline,134000,CVT,1445000
+Toyota,Passo,hatchback 5 doors,grey,Gasoline,256000,AT,220000
+Toyota,Prius,sedan,white,Gasoline,131000,Automatic,1285000
+Toyota,Harrier,jeep 5 doors,white,Gasoline,17000,CVT,2425000
+Toyota,Hilux,pickup,burgundy,Diesel,300000,Manual,650000
+Honda,Fit,hatchback 5 doors,black,Gasoline,140000,Robot,940000
+Toyota,Camry,sedan,white,Gasoline,46000,CVT,2550000
+Toyota,C-HR,jeep 5 doors,grey,Gasoline,31000,CVT,1850000
+Toyota,Alphard,minivan,white,Gasoline,150000,CVT,1765000
+Toyota,Allion,sedan,white,Gasoline,218000,CVT,700000
+Toyota,Carina,sedan,grey,Diesel,266000,AT,270000
+Toyota,Harrier,jeep 5 doors,black,Gasoline,180000,AT,1100000
+Nissan,X-Trail,jeep 5 doors,grey,Gasoline,169000,CVT,970000
+Subaru,Impreza,hatchback 5 doors,,Gasoline,6000,CVT,1490000
+Nissan,Serena,minivan,white,Gasoline,48000,AT,2020000
+Nissan,NV200,minivan,white,Gasoline,29000,AT,1275000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,1000,AT,1650000
+Lada,4x4 2121 Niva,jeep 3 doors,white,Gasoline,150000,Manual,270000
+Honda,Stepwgn,minivan,black,Gasoline,31000,CVT,2150000
+Honda,Stepwgn,minivan,white,Gasoline,59000,CVT,1880000
+Subaru,Trezia,hatchback 5 doors,grey,Gasoline,187000,CVT,560000
+Mazda,Familia,station wagon,white,Gasoline,1000,AT,165000
+Honda,Shuttle,station wagon,grey,Gasoline,160000,Robot,880000
+Honda,Shuttle,station wagon,white,Gasoline,60000,Robot,1190000
+Toyota,ist,hatchback 5 doors,white,Gasoline,190000,AT,415000
+Honda,Fit,hatchback 5 doors,grey,Gasoline,122000,AT,670000
+Lexus,RX200t,jeep 5 doors,burgundy,Gasoline,49000,AT,3499000
+Nissan,X-Trail,jeep 5 doors,grey,Gasoline,240000,AT,475000
+Toyota,Crown,sedan,white,Gasoline,145000,AT,600000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,49000,AT,3650000
+Toyota,Land Cruiser,jeep 5 doors,white,Diesel,240000,AT,1840000
+Land Rover,Range Rover Sport,jeep 5 doors,grey,Diesel,137000,AT,1870870
+Toyota,Passo,hatchback 5 doors,grey,Gasoline,95000,CVT,510000
+Lexus,RX450h,jeep 5 doors,white,Gasoline,207000,AT,1800000
+Mitsubishi,Pajero,jeep 3 doors,white,Gasoline,234000,AT,875000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Diesel,23000,AT,4050000
+Toyota,Prius,liftback,beige,Gasoline,183000,CVT,730000
+Toyota,Mark II,sedan,white,Gasoline,250000,AT,180000
+Honda,Vezel,jeep 5 doors,blue,Gasoline,78000,Robot,1600000
+Toyota,Aqua,hatchback 5 doors,black,Gasoline,68000,CVT,905000
+Honda,N-WGN,hatchback 5 doors,black,Gasoline,40000,CVT,490000
+Toyota,Carina ED,sedan,green,Gasoline,250000,AT,175000
+Daihatsu,Move,hatchback 5 doors,black,Gasoline,1000,CVT,560000
+Toyota,Sienta,minivan,white,Gasoline,1000,CVT,808000
+Toyota,Prius,liftback,white,Gasoline,230000,CVT,860000
+Honda,Insight,liftback,black,Gasoline,200000,CVT,730000
+Toyota,Prius,liftback,white,Gasoline,130000,CVT,930000
+Toyota,Crown,sedan,grey,Gasoline,235000,AT,360000
+Nissan,Note,hatchback 5 doors,black,Gasoline,105000,CVT,660000
+Mitsubishi,Eclipse Cross,jeep 5 doors,white,Gasoline,88000,CVT,1700000
+Toyota,Noah,minivan,brown,Gasoline,156000,CVT,1380000
+Nissan,Vanette,minivan,white,Gasoline,154000,Automatic,565000
+Daihatsu,YRV,hatchback 5 doors,blue,Gasoline,206000,AT,150000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,160000,AT,2200000
+Honda,Freed Spike,minivan,,Gasoline,122000,CVT,799000
+Daihatsu,Tanto,hatchback 5 doors,white,Gasoline,162000,CVT,410000
+Nissan,March,hatchback 5 doors,brown,Gasoline,160000,AT,240000
+Suzuki,Solio,hatchback 5 doors,silver,Gasoline,124000,CVT,580000
+Daihatsu,Tanto,hatchback 5 doors,blue,Gasoline,166000,AT,435000
+Daihatsu,Tanto,hatchback 5 doors,blue,Gasoline,170000,CVT,435000
+Mitsubishi,Outlander,jeep 5 doors,white,Gasoline,185000,CVT,945000
+Honda,Vezel,jeep 5 doors,black,Gasoline,53000,Robot,1515000
+BMW,i8,coupe,grey,Gasoline,25000,AT,7250000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,164000,AT,2300000
+Toyota,Corolla Rumion,hatchback 5 doors,blue,Gasoline,90000,CVT,735000
+Toyota,Raum,station wagon,silver,Gasoline,1000,AT,499000
+Nissan,Kicks,jeep 5 doors,white,Gasoline,12000,AT,1650000
+Toyota,Town Ace,minivan,white,Gasoline,136000,Automatic,720000
+Honda,CR-V,jeep 5 doors,silver,Gasoline,255000,Automatic,1100000
+Nissan,X-Trail,jeep 5 doors,black,Gasoline,159000,CVT,1000000
+Nissan,March,hatchback 5 doors,green,Gasoline,11000,CVT,665000
+Toyota,Hilux Surf,jeep 5 doors,,Diesel,189000,AT,670000
+Nissan,Murano,jeep 5 doors,blue,Gasoline,186000,Automatic,820000
+Nissan,DAYZ,hatchback 5 doors,,Gasoline,70000,CVT,495000
+Toyota,Raum,station wagon,silver,Gasoline,200000,AT,178000
+Toyota,Vista,sedan,green,Gasoline,200000,AT,355000
+Honda,Grace,sedan,black,Gasoline,80000,CVT,1000000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,170000,CVT,410000
+Suzuki,Grand Vitara,jeep 5 doors,silver,Gasoline,150000,AT,1080000
+Toyota,Town Ace,minivan,,Gasoline,101000,AT,995000
+Honda,Fit,hatchback 5 doors,blue,Gasoline,104000,Robot,760000
+Honda,Fit,hatchback 5 doors,red,Gasoline,303000,CVT,200000
+Honda,N-BOX,hatchback 5 doors,black,Gasoline,68000,CVT,1020000
+Toyota,Camry,sedan,white,Gasoline,150000,AT,120000
+Toyota,Vellfire,minivan,black,Gasoline,59000,CVT,3685000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,70000,AT,3100000
+Suzuki,Jimny,jeep 3 doors,black,Gasoline,91000,AT,625000
+Honda,Vezel,jeep 5 doors,burgundy,Gasoline,71000,Robot,1385000
+Toyota,Allion,sedan,black,Gasoline,87000,CVT,1000000
+Toyota,Voxy,minivan,black,Gasoline,77000,CVT,2150000
+Nissan,Serena,minivan,silver,Gasoline,100000,CVT,1420000
+Honda,Odyssey,minivan,white,Gasoline,110000,CVT,2000000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Diesel,72000,AT,3450000
+Toyota,Hilux,pickup,white,Diesel,,AT,4150000
+Honda,Civic Ferio,sedan,grey,Gasoline,250000,Manual,70000
+Toyota,Corolla Axio,sedan,white,Gasoline,170000,CVT,580000
+Mercedes-Benz,GLK-Class,jeep 5 doors,grey,Gasoline,101000,AT,2200000
+Lexus,LX570,jeep 5 doors,black,Gasoline,104000,AT,4390000
+Toyota,Master Ace Surf,minivan,grey,Diesel,200000,AT,150000
+Lexus,LX570,jeep 5 doors,black,Gasoline,,AT,12600000
+Lada,2105,sedan,blue,Gasoline,49000,Manual,130000
+Lexus,LX570,jeep 5 doors,black,Gasoline,1000,AT,11700000
+Toyota,Prius Alpha,minivan,white,Gasoline,169000,CVT,1010000
+Mitsubishi,Delica D:5,minivan,silver,Gasoline,129000,CVT,389000
+Lexus,ES300h,sedan,white,Gasoline,150000,CVT,1685000
+Mercedes-Benz,S-Class,sedan,black,Gasoline,41000,AT,3390000
+Honda,CR-V,jeep 5 doors,grey,Gasoline,280000,AT,410000
+Subaru,Forester,jeep 5 doors,grey,Gasoline,,CVT,4675000
+Toyota,Corolla,sedan,white,Gasoline,160000,AT,450000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,219000,AT,410000
+Toyota,Aqua,hatchback 5 doors,white,Gasoline,92000,CVT,930000
+Honda,Shuttle,station wagon,blue,Gasoline,65000,Robot,1175000
+Toyota,Prius,liftback,blue,Gasoline,357000,CVT,780000
+Mercedes-Benz,E-Class,sedan,black,Gasoline,200000,AT,1350000
+Toyota,Prius,liftback,black,Gasoline,281000,CVT,755000
+Toyota,Mark II,sedan,grey,Gasoline,247000,AT,245000
+Mitsubishi,Pajero,jeep 5 doors,white,Gasoline,300000,AT,550000
+Toyota,Prius,liftback,grey,Gasoline,183000,CVT,590000
+Toyota,Prius,liftback,grey,Gasoline,327000,CVT,810000
+Toyota,Prius,liftback,white,Gasoline,218000,CVT,635000
+Mitsubishi,Pajero Mini,jeep 3 doors,white,Gasoline,99000,AT,245000
+Suzuki,Jimny,jeep 3 doors,grey,Gasoline,38000,AT,1295000
+Honda,Inspire,sedan,grey,Gasoline,221000,AT,370000
+Toyota,Prius,liftback,white,Gasoline,252000,CVT,790000
+Nissan,Laurel,sedan,black,Gasoline,340000,AT,65000
+Toyota,Isis,minivan,grey,Gasoline,280000,AT,570000
+Honda,Stream,minivan,grey,Gasoline,177000,AT,330000
+Suzuki,Escudo,jeep 5 doors,grey,Gasoline,70000,AT,1395000
+Nissan,X-Trail,jeep 5 doors,black,Gasoline,124000,CVT,1435000
+Subaru,Forester,jeep 5 doors,white,Gasoline,87000,CVT,2450000
+Toyota,Ipsum,minivan,,Gasoline,1000,AT,415000
+Mitsubishi,Colt,hatchback 5 doors,white,Gasoline,224000,CVT,175000
+Toyota,Corona,sedan,green,Gasoline,1000,AT,150000
+Subaru,Levorg,station wagon,grey,Gasoline,109000,CVT,1250000
+Subaru,Legacy,station wagon,green,Gasoline,170000,AT,150000
+Nissan,Laurel,sedan,black,Gasoline,125000,Manual,1111111
+Toyota,Alphard,minivan,black,Gasoline,62000,CVT,3170000
+Toyota,Prius,liftback,white,Gasoline,121000,CVT,1120000
+Mercedes-Benz,CLA-Class,sedan,black,Gasoline,71000,Automatic,1430000
+Toyota,Prius,liftback,black,Gasoline,165000,CVT,750000
+Subaru,Forester,jeep 5 doors,grey,Gasoline,163000,AT,1010000
+Toyota,Corolla Fielder,station wagon,black,Gasoline,140000,CVT,900000
+Mercedes-Benz,GLK-Class,jeep 5 doors,black,Diesel,210000,Automatic,1250000
+Toyota,Mark II,sedan,,Gasoline,110000,AT,530000
+Nissan,X-Trail,jeep 5 doors,black,Gasoline,134000,CVT,1080000
+Toyota,Land Cruiser,jeep 5 doors,grey,Gasoline,225000,AT,1500000
+Mazda,Axela,sedan,black,Gasoline,73000,AT,1150000
+Toyota,Hiace,minivan,silver,Gasoline,65000,Automatic,1870000
+Honda,Logo,hatchback 5 doors,grey,Gasoline,235000,AT,40000
+Toyota,Highlander,jeep 5 doors,black,Gasoline,17000,AT,7300000
+Nissan,Vanette,minivan,white,Gasoline,180000,AT,650000
+Honda,Accord,sedan,black,Gasoline,257000,AT,670000
+Nissan,Juke,jeep 5 doors,white,Gasoline,52000,CVT,1530000
+Toyota,Ipsum,minivan,grey,Gasoline,110000,AT,340000
+Hyundai,Creta,jeep 5 doors,brown,Gasoline,79000,AT,1520000
+Subaru,Forester,jeep 5 doors,golden,Gasoline,133000,CVT,1290000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,56000,CVT,497000
+Toyota,Crown,sedan,blue,Gasoline,250000,AT,410000
+Mercedes-Benz,E-Class,sedan,white,Gasoline,148000,AT,2100000
+Toyota,Hiace,minivan,white,Diesel,50000,Automatic,2730000
+BMW,5-Series,sedan,black,Gasoline,80000,Automatic,2500000
+Mazda,Bongo Friendee,minivan,grey,Diesel,230000,Manual,255000
+Toyota,Prius,liftback,white,Gasoline,140000,CVT,460000
+Toyota,C-HR,jeep 5 doors,white,Gasoline,83000,CVT,1585000
+Toyota,Chaser,sedan,white,Gasoline,180000,AT,535000
+Toyota,RAV4,jeep 5 doors,grey,Gasoline,53000,CVT,2700000
+Nissan,Teana,sedan,grey,Gasoline,148000,AT,380000
+Toyota,Alphard,minivan,,Gasoline,1000,AT,539999
+Nissan,Dualis,jeep 5 doors,grey,Gasoline,200000,CVT,730000
+Nissan,Juke,jeep 5 doors,black,Gasoline,117000,CVT,670000
+Toyota,RAV4,jeep 5 doors,blue,Gasoline,22000,AT,3450000
+Toyota,C-HR,jeep 5 doors,blue,Gasoline,33000,CVT,1600000
+Honda,Vezel,jeep 5 doors,black,Gasoline,117000,Robot,1400000
+Dodge,Challenger,coupe,black,Gasoline,17000,AT,3890000
+Toyota,Land Cruiser,jeep 5 doors,black,Diesel,120000,AT,7100000
+Toyota,Voxy,minivan,white,Gasoline,104000,CVT,1850000
+Toyota,Premio,sedan,blue,Gasoline,20000,CVT,995000
+Mitsubishi,Delica,minivan,white,Diesel,246000,AT,560000
+Honda,Stepwgn,minivan,black,Gasoline,105000,CVT,2065000
+Toyota,Carina II,sedan,grey,Gasoline,166000,Manual,50000
+Toyota,Hilux Surf,jeep 5 doors,grey,,380000,,750000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,28000,AT,3570000
+Toyota,Hilux Surf,jeep 5 doors,grey,Diesel,124000,AT,700000
+Honda,Vezel,jeep 5 doors,,Gasoline,10000,Robot,1870000
+Honda,Accord,sedan,white,Gasoline,59000,CVT,2160000
+Nissan,X-Trail,jeep 5 doors,white,Gasoline,53000,CVT,1850000
+Honda,CR-V,jeep 5 doors,black,Gasoline,35000,CVT,2195000
+Honda,Fit,hatchback 5 doors,silver,Gasoline,59000,CVT,995000
+Toyota,Alphard,minivan,white,Gasoline,100000,CVT,4099000
+Mazda,Demio,hatchback 5 doors,grey,Gasoline,165000,AT,350000
+Toyota,Windom,sedan,silver,Gasoline,1000,AT,350001
+Nissan,X-Trail,jeep 5 doors,,Gasoline,50000,CVT,1695000
+Toyota,Vanguard,jeep 5 doors,black,Gasoline,157000,CVT,1180000
+Honda,Fit Shuttle,station wagon,blue,Gasoline,130000,CVT,770000
+Toyota,Rush,jeep 5 doors,silver,Gasoline,37000,AT,1250000
+Toyota,Wish,minivan,grey,Gasoline,109000,CVT,925000
+Nissan,Juke,jeep 5 doors,burgundy,Gasoline,120000,CVT,675000
+Toyota,Camry,sedan,white,Gasoline,130000,CVT,1415000
+Toyota,Roomy,hatchback 5 doors,green,Gasoline,122000,CVT,704000
+Toyota,Allion,sedan,blue,Gasoline,173000,AT,590000
+Toyota,Corolla Axio,sedan,grey,,145000,Automatic,880000
+Infiniti,QX56,jeep 5 doors,black,Gasoline,186000,AT,2000000
+Toyota,Harrier,jeep 5 doors,golden,Gasoline,210000,AT,750000
+Toyota,Vitz,hatchback 5 doors,grey,Gasoline,80000,CVT,700000
+Honda,Insight,liftback,white,Gasoline,165000,CVT,655000
+Nissan,Note,hatchback 5 doors,grey,Gasoline,104000,CVT,590000
+Honda,Fit Shuttle,station wagon,,Gasoline,125000,CVT,829000
+Toyota,Voxy,minivan,white,Gasoline,37000,CVT,2260000
+Honda,Stepwgn,minivan,black,Gasoline,76000,CVT,1540000
+Toyota,Prius,liftback,white,Gasoline,300000,CVT,650000
+Toyota,Noah,minivan,black,Gasoline,92000,CVT,1780000
+Nissan,Teana,sedan,grey,Gasoline,21000,CVT,1650000
+Toyota,Noah,minivan,black,Gasoline,75000,CVT,2230000
+Suzuki,Wagon R,hatchback 5 doors,black,Gasoline,96000,CVT,480000
+Toyota,Esquire,minivan,white,Gasoline,35000,CVT,2110000
+Toyota,Caldina,station wagon,black,Gasoline,290000,AT,290000
+Nissan,Bluebird Sylphy,sedan,blue,Gasoline,226000,CVT,250000
+Toyota,Esquire,minivan,black,Gasoline,96000,CVT,1650000
+Mercedes-Benz,A-Class,hatchback 5 doors,black,Gasoline,80000,Automatic,1180000
+Toyota,Vitz,hatchback 5 doors,,Gasoline,80000,CVT,730000
+Lexus,GX470,jeep 5 doors,grey,Gasoline,150000,AT,1400000
+Subaru,Levorg,station wagon,black,Gasoline,180000,CVT,1130000
+Toyota,Starlet,hatchback 5 doors,grey,Gasoline,1000,AT,135000
+Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,340000,AT,1110000
+Toyota,RAV4,jeep 5 doors,blue,Gasoline,43000,CVT,2650000
+Toyota,Corolla Fielder,station wagon,grey,Gasoline,51000,CVT,1080000
+Hyundai,Santa Fe,jeep 5 doors,blue,Diesel,44000,AT,2700000
+Toyota,Cresta,sedan,grey,Gasoline,267000,AT,265000
+Toyota,Prius,liftback,white,Gasoline,199000,CVT,895000
+Subaru,Impreza,sedan,grey,Gasoline,197000,AT,550000
+Toyota,Land Cruiser Prado,jeep 5 doors,white,Diesel,54000,AT,4150000
+Mercedes-Benz,G-Class,jeep 5 doors,black,Diesel,49000,AT,15850000
+Mercedes-Benz,GLE Coupe,jeep 5 doors,white,Gasoline,87000,AT,6500000
+Lexus,GX470,jeep 5 doors,grey,Gasoline,212000,AT,1930000
+Nissan,Teana,sedan,,Gasoline,126000,CVT,450000
+Honda,S-MX,hatchback 5 doors,grey,Gasoline,280000,AT,235000
+Subaru,Forester,jeep 5 doors,grey,Gasoline,200000,CVT,1450000
+Audi,A3,hatchback 5 doors,silver,Gasoline,125000,Robot,1039000
+Toyota,bB,hatchback 5 doors,violet,Gasoline,101000,AT,615000
+Toyota,Rush,jeep 5 doors,silver,Gasoline,170000,AT,790000
+Toyota,Corona,sedan,green,Gasoline,300000,AT,145000
+Daihatsu,Move,hatchback 5 doors,black,Gasoline,120000,CVT,545000
+Mazda,CX-5,jeep 5 doors,black,Diesel,30000,AT,1999999
+Nissan,Note,hatchback 5 doors,white,Gasoline,100000,CVT,870000
+Toyota,Mark II,sedan,white,Gasoline,200000,AT,400000
+Toyota,Prius,liftback,white,Gasoline,168000,CVT,870000
+Toyota,Mark II,sedan,white,Gasoline,200000,AT,340000
+Mazda,Familia,sedan,white,Gasoline,150000,AT,79000
+Toyota,Land Cruiser Prado,jeep 5 doors,black,Gasoline,121000,AT,2950000
+Volkswagen,Golf,hatchback 5 doors,blue,Gasoline,53000,Robot,1950000
+Lexus,NX200t,jeep 5 doors,white,Gasoline,142000,AT,2600000
+Nissan,Kix,jeep 3 doors,silver,Gasoline,134000,AT,620000
+Toyota,Lite Ace,minivan,white,Gasoline,80000,AT,1000000
+Toyota,Hiace,minivan,grey,Diesel,193000,Automatic,1550000
+Nissan,NV200,minivan,white,Gasoline,117000,AT,885000
+Suzuki,Swift,hatchback 5 doors,white,Gasoline,29000,Manual,1290000
+Honda,Fit,hatchback 5 doors,black,Gasoline,1000,AT,695000
+Toyota,Corolla Levin,coupe,grey,Gasoline,140000,AT,100000
+Volkswagen,Tiguan,jeep 5 doors,silver,Gasoline,79000,Robot,2670000
